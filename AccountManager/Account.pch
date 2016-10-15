@@ -1,0 +1,18 @@
+//
+//  Account.pch
+//  AccountManager
+//
+//  Created by 张祥 on 16/5/13.
+//  Copyright © 2016年 张祥. All rights reserved.
+//
+
+#ifndef Account_pch
+#define Account_pch
+
+
+#import "Macros.h"
+#import "RequestUrl.h"
+#import "UIColor+Hex.h"
+#import "Tools.h"
+
+#endif /* Account_pch */
